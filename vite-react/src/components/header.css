@@ -1,0 +1,16 @@
+nav{
+
+    display: flex;
+    align-items: center;
+    background-color: #282D35;
+    margin: 4em;
+}
+
+nav > h1{
+    color: #61DAFB;
+}
+
+nav > h2{
+    margin-left: auto;
+    color: white;
+}
